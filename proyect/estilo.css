@@ -33,7 +33,18 @@ body {
     padding: 0.5rem 1rem;
     cursor: pointer;
   }
-  
+
+  }
+  header h1 {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .centered-image {
+    display: block;
+    margin: 0 auto;
+  }
   .pago {
     text-align: center;
     padding: 2rem;
@@ -51,16 +62,6 @@ body {
     background-image: url('https://w0.peakpx.com/wallpaper/623/145/HD-wallpaper-soccer-goal-net-dark-field-graphy-field-soccer-dark-graphy.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-
+  }
     
-  }
-  header h1 {
-    color: white;
-    text-align: center;
-    margin-top: 50px;
-  }
 
-  .centered-image {
-    display: block;
-    margin: 0 auto;
-  }
